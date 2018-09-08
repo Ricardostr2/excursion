@@ -24,3 +24,10 @@ p{
   font-size: 21px;
   color: gray;
 }
+#footer{
+  text-align: right;
+  color: grey;
+}
+#images{
+  align-items: center;
+}
